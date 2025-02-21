@@ -1,0 +1,151 @@
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\BlockBuster.ConsoleApp.exe
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\config.json
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\BlockBuster.ConsoleApp.deps.json
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\BlockBuster.ConsoleApp.runtimeconfig.json
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\BlockBuster.ConsoleApp.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\BlockBuster.ConsoleApp.pdb
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\BlockBuster.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\BlockBuster.pdb
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\obj\Debug\net8.0\BlockBuster.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\obj\Debug\net8.0\BlockBuster.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\obj\Debug\net8.0\BlockBuster.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\obj\Debug\net8.0\BlockBuster.ConsoleApp.AssemblyInfo.cs
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\obj\Debug\net8.0\BlockBuster.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\obj\Debug\net8.0\BlockBus.1A26882D.Up2Date
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\obj\Debug\net8.0\BlockBuster.ConsoleApp.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\obj\Debug\net8.0\refint\BlockBuster.ConsoleApp.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\obj\Debug\net8.0\BlockBuster.ConsoleApp.pdb
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\obj\Debug\net8.0\BlockBuster.ConsoleApp.genruntimeconfig.cache
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\obj\Debug\net8.0\ref\BlockBuster.ConsoleApp.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\obj\Debug\net8.0\BlockBuster.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\obj\Debug\net8.0\BlockBuster.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\obj\Debug\net8.0\BlockBuster.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\obj\Debug\net8.0\BlockBuster.ConsoleApp.AssemblyInfo.cs
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\obj\Debug\net8.0\BlockBuster.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\obj\Debug\net8.0\BlockBuster.ConsoleApp.sourcelink.json
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\obj\Debug\net8.0\BlockBuster.ConsoleApp.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\obj\Debug\net8.0\refint\BlockBuster.ConsoleApp.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\obj\Debug\net8.0\BlockBuster.ConsoleApp.pdb
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\BlockBuster.ConsoleApp.exe
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\config.json
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\BlockBuster.ConsoleApp.deps.json
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\BlockBuster.ConsoleApp.runtimeconfig.json
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\BlockBuster.ConsoleApp.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\BlockBuster.ConsoleApp.pdb
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\BlockBuster.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\BlockBuster.pdb
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\obj\Debug\net8.0\BlockBus.1A26882D.Up2Date
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\obj\Debug\net8.0\BlockBuster.ConsoleApp.genruntimeconfig.cache
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\obj\Debug\net8.0\ref\BlockBuster.ConsoleApp.dll

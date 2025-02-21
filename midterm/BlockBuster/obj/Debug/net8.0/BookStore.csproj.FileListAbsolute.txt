@@ -1,0 +1,16 @@
+C:\Users\leyna\OneDrive\Desktop\midterm\BlockBuster\bin\Debug\net8.0\config.json
+C:\Users\leyna\OneDrive\Desktop\midterm\BlockBuster\bin\Debug\net8.0\BookStore.deps.json
+C:\Users\leyna\OneDrive\Desktop\midterm\BlockBuster\bin\Debug\net8.0\BookStore.runtimeconfig.json
+C:\Users\leyna\OneDrive\Desktop\midterm\BlockBuster\bin\Debug\net8.0\BookStore.dll
+C:\Users\leyna\OneDrive\Desktop\midterm\BlockBuster\bin\Debug\net8.0\BookStore.pdb
+C:\Users\leyna\OneDrive\Desktop\midterm\BlockBuster\obj\Debug\net8.0\BookStore.csproj.AssemblyReference.cache
+C:\Users\leyna\OneDrive\Desktop\midterm\BlockBuster\obj\Debug\net8.0\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leyna\OneDrive\Desktop\midterm\BlockBuster\obj\Debug\net8.0\BookStore.AssemblyInfoInputs.cache
+C:\Users\leyna\OneDrive\Desktop\midterm\BlockBuster\obj\Debug\net8.0\BookStore.AssemblyInfo.cs
+C:\Users\leyna\OneDrive\Desktop\midterm\BlockBuster\obj\Debug\net8.0\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\leyna\OneDrive\Desktop\midterm\BlockBuster\obj\Debug\net8.0\BookStore.sourcelink.json
+C:\Users\leyna\OneDrive\Desktop\midterm\BlockBuster\obj\Debug\net8.0\BookStore.dll
+C:\Users\leyna\OneDrive\Desktop\midterm\BlockBuster\obj\Debug\net8.0\refint\BookStore.dll
+C:\Users\leyna\OneDrive\Desktop\midterm\BlockBuster\obj\Debug\net8.0\BookStore.pdb
+C:\Users\leyna\OneDrive\Desktop\midterm\BlockBuster\obj\Debug\net8.0\BookStore.genruntimeconfig.cache
+C:\Users\leyna\OneDrive\Desktop\midterm\BlockBuster\obj\Debug\net8.0\ref\BookStore.dll
