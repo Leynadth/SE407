@@ -12,7 +12,14 @@ namespace BlockBuster.ConsoleApp
 {
     public class ConsoleUtils
     {
-        public static void ListMovies(IEnumerable<Movie> movies)
+		static void Main(string[] args)
+		{
+			var b = BasicFunctions.GetAllMovies();
+			var oh = new OutputHelper();
+			oh.WriteToConsole(b);
+		}
+
+		public static void ListMovies(IEnumerable<Movie> movies)
         {
             Console.WriteLine("List of Movies:");
 
@@ -25,7 +32,7 @@ namespace BlockBuster.ConsoleApp
 
         public static void WriteMoviesToCsv(IEnumerable<Movie> movies)
         {
-            using(var streamWriter = new StreamWriter("..\\Movies.csv"))
+            using(var streamWriter = new StreamWriter(@"..\\Movies.csv"))
             {
                 using (var csvWriter = new CsvWriter(streamWriter, CultureInfo.InvariantCulture))
                 {

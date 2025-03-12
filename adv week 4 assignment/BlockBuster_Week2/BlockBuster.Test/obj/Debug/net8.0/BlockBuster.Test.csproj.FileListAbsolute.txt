@@ -314,9 +314,6 @@ C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Test\ob
 C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Test\bin\Debug\net8.0\CoverletSourceRootsMapping_BlockBuster.Test
 C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Test\bin\Debug\net8.0\testhost.exe
 C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Test\bin\Debug\net8.0\testhost.dll
-C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Test\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
-C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Test\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
-C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Test\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
 C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Test\bin\Debug\net8.0\config.json
 C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Test\bin\Debug\net8.0\BlockBuster.Test.deps.json
 C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Test\bin\Debug\net8.0\BlockBuster.Test.runtimeconfig.json
@@ -358,7 +355,6 @@ C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBus
 C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Test\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
 C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Test\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Test\bin\Debug\net8.0\Newtonsoft.Json.dll
-C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Test\bin\Debug\net8.0\NuGet.Frameworks.dll
 C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Test\bin\Debug\net8.0\System.ClientModel.dll
 C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Test\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
 C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Test\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
@@ -469,3 +465,6 @@ C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBus
 C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Test\obj\Debug\net8.0\BlockBuster.Test.pdb
 C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Test\obj\Debug\net8.0\BlockBuster.Test.genruntimeconfig.cache
 C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Test\obj\Debug\net8.0\ref\BlockBuster.Test.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Test\bin\Debug\net8.0\.msCoverageSourceRootsMapping_BlockBuster.Test
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Test\bin\Debug\net8.0\xunit.runner.visualstudio.testadapter.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Test\bin\Debug\net8.0\CsvHelper.dll

@@ -50,21 +50,52 @@ namespace BlockBuster
 			}
 		}
 
+		//public static List<Movie> GetCheckedOutMovies()
+		//{
+		//	using (var context = new Se407BlockBusterContext())
+		//	{
+		//		return context
+		//			.Transactions
+		//			.Where(t => t.CheckedIn.Equals("N"))
+		//			.Join(
+		//				context.Movies,
+		//				t => t.MovieId,
+		//				m => m.MovieId,
+		//				(t, m) => m
+		//			)
+		//			.ToList();
+		//	}
+		//}
+
 		public static List<Movie> GetCheckedOutMovies()
 		{
-			using (var context = new Se407BlockBusterContext())
+			using (var db = new Se407BlockBusterContext())
 			{
-				return context
-					.Transactions
-					.Where(t => t.CheckedIn.Equals("N"))
-					.Join(
-						context.Movies,
-						t => t.MovieId,
-						m => m.MovieId,
-						(t, m) => m
-					)
+				return db.Movies
+					.Join(db.Transactions,
+						  m => m.MovieId,
+						  t => t.MovieId,
+						  (m, t) => new
+						  {
+							  MovieId = m.MovieId,
+							  Title = m.Title,
+							  ReleaseYear = m.ReleaseYear,
+							  GenreId = m.GenreId,
+							  DirectorId = m.DirectorId,
+							  CheckedIn = t.CheckedIn
+						  })
+					.Where(m => m.CheckedIn == "N")
+					.Select(m => new Movie
+					{
+						MovieId = m.MovieId,
+						Title = m.Title,
+						ReleaseYear = m.ReleaseYear,
+						GenreId = m.GenreId,
+						DirectorId = m.DirectorId
+					})
 					.ToList();
 			}
 		}
+
 	}
 }

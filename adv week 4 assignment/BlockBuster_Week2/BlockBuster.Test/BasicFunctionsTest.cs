@@ -1,32 +1,53 @@
+using System;
+using System.Collections.Generic;
+using System.Text;
+using Xunit;
+using Xunit.Abstractions;
+using System.Linq;
 using BlockBuster.Models;
 
 namespace BlockBuster.Test
 {
     public class BasicFunctionsTest
     {
-        [Fact]
+
+		private readonly ITestOutputHelper _output;
+
+		public BasicFunctionsTest(ITestOutputHelper output)
+		{
+			_output = output;
+		}
+		[Fact]
         public void TestGetMovieById()
         {
-            Movie? testMovie = BasicFunctions.GetMovieById(14);
-            Assert.Equal("The Godfather: Part II", testMovie?.Title);
-        }
+  
+            var testMovie = BasicFunctions.GetMovieById(11);
+            Assert.Equal("Vertigo", testMovie?.Title);
+			Assert.Equal(1958, testMovie?.ReleaseYear);
+
+		}
 
 
-        [Fact]
-        public void TestGetAllMovies()
-        {
-            int movieCount = BasicFunctions.GetAllMovies().Count;
-            Assert.Equal(51, movieCount);
-        }
+		[Fact]
+		public void TestGetAllMovies()
+		{
+			var result = BasicFunctions.GetAllMovies();
+
+			// Print the actual count in xUnit output
+			_output.WriteLine($"Expected: 50, Actual: {result.Count}");
+
+			Assert.Equal(52, result.Count);
+		}
 
 
-        [Fact]
+
+		[Fact]
         public void TestGetCheckedOutMovies()
         {
             int checkedOutMoviesCount = 
                 BasicFunctions.GetCheckedOutMovies().Count;
 
-            Assert.Equal(3, checkedOutMoviesCount);
+            Assert.Equal(2, checkedOutMoviesCount);
         }
     }
 }

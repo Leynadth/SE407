@@ -73,15 +73,6 @@ C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console
 C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\obj\Debug\net8.0\BlockBuster.ConsoleApp.genruntimeconfig.cache
 C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\obj\Debug\net8.0\ref\BlockBuster.ConsoleApp.dll
 C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster.Console\bin\Debug\net8.0\CsvHelper.dll
-C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\obj\Debug\net8.0\BlockBuster.ConsoleApp.csproj.AssemblyReference.cache
-C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\obj\Debug\net8.0\BlockBuster.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\obj\Debug\net8.0\BlockBuster.ConsoleApp.AssemblyInfoInputs.cache
-C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\obj\Debug\net8.0\BlockBuster.ConsoleApp.AssemblyInfo.cs
-C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\obj\Debug\net8.0\BlockBuster.ConsoleApp.csproj.CoreCompileInputs.cache
-C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\obj\Debug\net8.0\BlockBuster.ConsoleApp.sourcelink.json
-C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\obj\Debug\net8.0\BlockBuster.ConsoleApp.dll
-C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\obj\Debug\net8.0\refint\BlockBuster.ConsoleApp.dll
-C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\obj\Debug\net8.0\BlockBuster.ConsoleApp.pdb
 C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\BlockBuster.ConsoleApp.exe
 C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\config.json
 C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\BlockBuster.ConsoleApp.deps.json
@@ -146,6 +137,15 @@ C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBus
 C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\BlockBuster.dll
 C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\bin\Debug\net8.0\BlockBuster.pdb
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\obj\Debug\net8.0\BlockBuster.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\obj\Debug\net8.0\BlockBuster.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\obj\Debug\net8.0\BlockBuster.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\obj\Debug\net8.0\BlockBuster.ConsoleApp.AssemblyInfo.cs
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\obj\Debug\net8.0\BlockBuster.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\obj\Debug\net8.0\BlockBuster.ConsoleApp.sourcelink.json
 C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\obj\Debug\net8.0\BlockBus.1A26882D.Up2Date
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\obj\Debug\net8.0\BlockBuster.ConsoleApp.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\obj\Debug\net8.0\refint\BlockBuster.ConsoleApp.dll
+C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\obj\Debug\net8.0\BlockBuster.ConsoleApp.pdb
 C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\obj\Debug\net8.0\BlockBuster.ConsoleApp.genruntimeconfig.cache
 C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\obj\Debug\net8.0\ref\BlockBuster.ConsoleApp.dll

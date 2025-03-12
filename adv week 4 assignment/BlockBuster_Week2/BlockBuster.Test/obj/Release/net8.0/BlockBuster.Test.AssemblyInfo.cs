@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlockBuster.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01ed3a4b80a2efc7c24880571e6d2a6f7b0a832b")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlockBuster.Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlockBuster.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
