@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5npQdUiRSJeJiaJF3MXvMDx1ReH4MS0V1FQOfSFRLqeEfpskLSCN2EvAkqO0QOK/PHWlwCq2xf1DezHNyqTNfw==",
+  "dgSpecHash": "JvfiYp0OmPbrkGO/3OdojL+iBkWtN+rpQMhbyjc7X4gjOMYVDywv3VQ85u8XCNrfRYUJaYNlRCgNNzxj45dkkg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leyna\\OneDrive\\Desktop\\adv week 4 assignment\\BlockBuster_Week2\\BlockBuster.Console\\BlockBuster.ConsoleApp.csproj",
+  "projectFilePath": "C:\\Users\\leyna\\OneDrive\\Desktop\\SE407\\adv week 4 assignment\\BlockBuster_Week2\\BlockBuster.Console\\BlockBuster.ConsoleApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leyna\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\leyna\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

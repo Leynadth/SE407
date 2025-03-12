@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlockBuster.ConsoleApp
-build_property.ProjectDir = C:\Users\leyna\OneDrive\Desktop\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\
+build_property.ProjectDir = C:\Users\leyna\OneDrive\Desktop\SE407\adv week 4 assignment\BlockBuster_Week2\BlockBuster.Console\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

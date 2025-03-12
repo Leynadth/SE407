@@ -3812,11 +3812,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leyna\\OneDrive\\Desktop\\adv week 4 assignment\\BlockBuster_Week2\\BlockBuster.Test\\BlockBuster.Test.csproj",
+      "projectUniqueName": "C:\\Users\\leyna\\OneDrive\\Desktop\\SE407\\adv week 4 assignment\\BlockBuster_Week2\\BlockBuster.Test\\BlockBuster.Test.csproj",
       "projectName": "BlockBuster.Test",
-      "projectPath": "C:\\Users\\leyna\\OneDrive\\Desktop\\adv week 4 assignment\\BlockBuster_Week2\\BlockBuster.Test\\BlockBuster.Test.csproj",
+      "projectPath": "C:\\Users\\leyna\\OneDrive\\Desktop\\SE407\\adv week 4 assignment\\BlockBuster_Week2\\BlockBuster.Test\\BlockBuster.Test.csproj",
       "packagesPath": "C:\\Users\\leyna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leyna\\OneDrive\\Desktop\\adv week 4 assignment\\BlockBuster_Week2\\BlockBuster.Test\\obj\\",
+      "outputPath": "C:\\Users\\leyna\\OneDrive\\Desktop\\SE407\\adv week 4 assignment\\BlockBuster_Week2\\BlockBuster.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leyna\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3833,8 +3833,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\leyna\\OneDrive\\Desktop\\adv week 4 assignment\\BlockBuster_Week2\\BlockBuster\\BlockBuster.csproj": {
-              "projectPath": "C:\\Users\\leyna\\OneDrive\\Desktop\\adv week 4 assignment\\BlockBuster_Week2\\BlockBuster\\BlockBuster.csproj"
+            "C:\\Users\\leyna\\OneDrive\\Desktop\\SE407\\adv week 4 assignment\\BlockBuster_Week2\\BlockBuster\\BlockBuster.csproj": {
+              "projectPath": "C:\\Users\\leyna\\OneDrive\\Desktop\\SE407\\adv week 4 assignment\\BlockBuster_Week2\\BlockBuster\\BlockBuster.csproj"
             }
           }
         }
