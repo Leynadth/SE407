@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leyna\\Downloads\\BlockBuster_Week6\\BlockBuster_Week6\\BlockBuster.WebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1BE134-2B86-4AAB-8971-C97BEACBCED7}|BlockBuster.WebApp.csproj|c:\\users\\leyna\\downloads\\blockbuster_week6\\blockbuster_week6\\blockbuster.webapp\\views\\home\\hobbies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA1BE134-2B86-4AAB-8971-C97BEACBCED7}|BlockBuster.WebApp.csproj|solutionrelative:views\\home\\hobbies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1BE134-2B86-4AAB-8971-C97BEACBCED7}|BlockBuster.WebApp.csproj|c:\\users\\leyna\\downloads\\blockbuster_week6\\blockbuster_week6\\blockbuster.webapp\\views\\home\\colors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA1BE134-2B86-4AAB-8971-C97BEACBCED7}|BlockBuster.WebApp.csproj|solutionrelative:views\\home\\colors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1BE134-2B86-4AAB-8971-C97BEACBCED7}|BlockBuster.WebApp.csproj|c:\\users\\leyna\\downloads\\blockbuster_week6\\blockbuster_week6\\blockbuster.webapp\\views\\home\\cities.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA1BE134-2B86-4AAB-8971-C97BEACBCED7}|BlockBuster.WebApp.csproj|solutionrelative:views\\home\\cities.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1BE134-2B86-4AAB-8971-C97BEACBCED7}|BlockBuster.WebApp.csproj|c:\\users\\leyna\\downloads\\blockbuster_week6\\blockbuster_week6\\blockbuster.webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA1BE134-2B86-4AAB-8971-C97BEACBCED7}|BlockBuster.WebApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1BE134-2B86-4AAB-8971-C97BEACBCED7}|BlockBuster.WebApp.csproj|c:\\users\\leyna\\downloads\\blockbuster_week6\\blockbuster_week6\\blockbuster.webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA1BE134-2B86-4AAB-8971-C97BEACBCED7}|BlockBuster.WebApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1BE134-2B86-4AAB-8971-C97BEACBCED7}|BlockBuster.WebApp.csproj|c:\\users\\leyna\\downloads\\blockbuster_week6\\blockbuster_week6\\blockbuster.webapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA1BE134-2B86-4AAB-8971-C97BEACBCED7}|BlockBuster.WebApp.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1BE134-2B86-4AAB-8971-C97BEACBCED7}|BlockBuster.WebApp.csproj|c:\\users\\leyna\\downloads\\blockbuster_week6\\blockbuster_week6\\blockbuster.webapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA1BE134-2B86-4AAB-8971-C97BEACBCED7}|BlockBuster.WebApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 176,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hobbies.cshtml",
+              "DocumentMoniker": "C:\\Users\\leyna\\Downloads\\BlockBuster_Week6\\BlockBuster_Week6\\BlockBuster.WebApp\\Views\\Home\\Hobbies.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Hobbies.cshtml",
+              "ToolTip": "C:\\Users\\leyna\\Downloads\\BlockBuster_Week6\\BlockBuster_Week6\\BlockBuster.WebApp\\Views\\Home\\Hobbies.cshtml",
+              "RelativeToolTip": "Views\\Home\\Hobbies.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T06:25:28.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cities.cshtml",
+              "DocumentMoniker": "C:\\Users\\leyna\\Downloads\\BlockBuster_Week6\\BlockBuster_Week6\\BlockBuster.WebApp\\Views\\Home\\Cities.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Cities.cshtml",
+              "ToolTip": "C:\\Users\\leyna\\Downloads\\BlockBuster_Week6\\BlockBuster_Week6\\BlockBuster.WebApp\\Views\\Home\\Cities.cshtml",
+              "RelativeToolTip": "Views\\Home\\Cities.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T06:22:26.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Colors.cshtml",
+              "DocumentMoniker": "C:\\Users\\leyna\\Downloads\\BlockBuster_Week6\\BlockBuster_Week6\\BlockBuster.WebApp\\Views\\Home\\Colors.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Colors.cshtml",
+              "ToolTip": "C:\\Users\\leyna\\Downloads\\BlockBuster_Week6\\BlockBuster_Week6\\BlockBuster.WebApp\\Views\\Home\\Colors.cshtml",
+              "RelativeToolTip": "Views\\Home\\Colors.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T00:15:19.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\leyna\\Downloads\\BlockBuster_Week6\\BlockBuster_Week6\\BlockBuster.WebApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\leyna\\Downloads\\BlockBuster_Week6\\BlockBuster_Week6\\BlockBuster.WebApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T23:56:09.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\leyna\\Downloads\\BlockBuster_Week6\\BlockBuster_Week6\\BlockBuster.WebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\leyna\\Downloads\\BlockBuster_Week6\\BlockBuster_Week6\\BlockBuster.WebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T23:56:10.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\leyna\\Downloads\\BlockBuster_Week6\\BlockBuster_Week6\\BlockBuster.WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\leyna\\Downloads\\BlockBuster_Week6\\BlockBuster_Week6\\BlockBuster.WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T23:53:53.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\leyna\\Downloads\\BlockBuster_Week6\\BlockBuster_Week6\\BlockBuster.WebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\leyna\\Downloads\\BlockBuster_Week6\\BlockBuster_Week6\\BlockBuster.WebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T00:00:16.464Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
