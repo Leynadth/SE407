@@ -1,0 +1,4 @@
+BookId,BookTitle,GenreId,AuthorId,YearOfRelease,AuthorId,AuthorFirst,AuthorLast,GenreId,GenreType
+2,Canterbury Tales,1,2,1410,0,,,0,
+2167,Farid,1,2,2000,0,,,0,
+3172,Test Book,1,2,2024,0,,,0,

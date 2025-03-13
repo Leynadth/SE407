@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leyna\\OneDrive\\Desktop\\adv.net final\\LeynadthBookstoreWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5997CC-8EEF-423E-8DD7-9E7AD1A28009}|LeynadthBookstoreWebApp.csproj|c:\\users\\leyna\\onedrive\\desktop\\adv.net final\\leynadthbookstorewebapp\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5997CC-8EEF-423E-8DD7-9E7AD1A28009}|LeynadthBookstoreWebApp.csproj|solutionrelative:controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5997CC-8EEF-423E-8DD7-9E7AD1A28009}|LeynadthBookstoreWebApp.csproj|c:\\users\\leyna\\onedrive\\desktop\\adv.net final\\leynadthbookstorewebapp\\views\\authors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E5997CC-8EEF-423E-8DD7-9E7AD1A28009}|LeynadthBookstoreWebApp.csproj|solutionrelative:views\\authors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5997CC-8EEF-423E-8DD7-9E7AD1A28009}|LeynadthBookstoreWebApp.csproj|c:\\users\\leyna\\onedrive\\desktop\\adv.net final\\leynadthbookstorewebapp\\views\\home\\authors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E5997CC-8EEF-423E-8DD7-9E7AD1A28009}|LeynadthBookstoreWebApp.csproj|solutionrelative:views\\home\\authors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5997CC-8EEF-423E-8DD7-9E7AD1A28009}|LeynadthBookstoreWebApp.csproj|c:\\users\\leyna\\onedrive\\desktop\\adv.net final\\leynadthbookstorewebapp\\views\\authors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E5997CC-8EEF-423E-8DD7-9E7AD1A28009}|LeynadthBookstoreWebApp.csproj|solutionrelative:views\\authors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5997CC-8EEF-423E-8DD7-9E7AD1A28009}|LeynadthBookstoreWebApp.csproj|c:\\users\\leyna\\onedrive\\desktop\\adv.net final\\leynadthbookstorewebapp\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5997CC-8EEF-423E-8DD7-9E7AD1A28009}|LeynadthBookstoreWebApp.csproj|solutionrelative:controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5997CC-8EEF-423E-8DD7-9E7AD1A28009}|LeynadthBookstoreWebApp.csproj|c:\\users\\leyna\\onedrive\\desktop\\adv.net final\\leynadthbookstorewebapp\\helpers\\dropdownformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5997CC-8EEF-423E-8DD7-9E7AD1A28009}|LeynadthBookstoreWebApp.csproj|solutionrelative:helpers\\dropdownformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9CD2C9-EC1E-D46D-CED7-654A83D97A18}|..\\LeynadthBookstore\\LeynadthBookstore.csproj|c:\\users\\leyna\\onedrive\\desktop\\adv.net final\\leynadthbookstore\\basicfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5997CC-8EEF-423E-8DD7-9E7AD1A28009}|LeynadthBookstoreWebApp.csproj|c:\\users\\leyna\\onedrive\\desktop\\adv.net final\\leynadthbookstorewebapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5997CC-8EEF-423E-8DD7-9E7AD1A28009}|LeynadthBookstoreWebApp.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5997CC-8EEF-423E-8DD7-9E7AD1A28009}|LeynadthBookstoreWebApp.csproj|c:\\users\\leyna\\onedrive\\desktop\\adv.net final\\leynadthbookstorewebapp\\views\\authors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E5997CC-8EEF-423E-8DD7-9E7AD1A28009}|LeynadthBookstoreWebApp.csproj|solutionrelative:views\\authors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5997CC-8EEF-423E-8DD7-9E7AD1A28009}|LeynadthBookstoreWebApp.csproj|c:\\users\\leyna\\onedrive\\desktop\\adv.net final\\leynadthbookstorewebapp\\views\\authors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E5997CC-8EEF-423E-8DD7-9E7AD1A28009}|LeynadthBookstoreWebApp.csproj|solutionrelative:views\\authors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5997CC-8EEF-423E-8DD7-9E7AD1A28009}|LeynadthBookstoreWebApp.csproj|c:\\users\\leyna\\onedrive\\desktop\\adv.net final\\leynadthbookstorewebapp\\views\\home\\genres.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E5997CC-8EEF-423E-8DD7-9E7AD1A28009}|LeynadthBookstoreWebApp.csproj|solutionrelative:views\\home\\genres.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5997CC-8EEF-423E-8DD7-9E7AD1A28009}|LeynadthBookstoreWebApp.csproj|c:\\users\\leyna\\onedrive\\desktop\\adv.net final\\leynadthbookstorewebapp\\views\\home\\books.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E5997CC-8EEF-423E-8DD7-9E7AD1A28009}|LeynadthBookstoreWebApp.csproj|solutionrelative:views\\home\\books.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5997CC-8EEF-423E-8DD7-9E7AD1A28009}|LeynadthBookstoreWebApp.csproj|c:\\users\\leyna\\onedrive\\desktop\\adv.net final\\leynadthbookstorewebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E5997CC-8EEF-423E-8DD7-9E7AD1A28009}|LeynadthBookstoreWebApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\leyna\\OneDrive\\Desktop\\adv.net final\\LeynadthBookstoreWebApp\\Views\\Authors\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Authors\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\leyna\\OneDrive\\Desktop\\adv.net final\\LeynadthBookstoreWebApp\\Views\\Authors\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Authors\\Delete.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T12:46:17.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\leyna\\OneDrive\\Desktop\\adv.net final\\LeynadthBookstoreWebApp\\Views\\Authors\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Authors\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\leyna\\OneDrive\\Desktop\\adv.net final\\LeynadthBookstoreWebApp\\Views\\Authors\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Authors\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T12:39:34.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\leyna\\OneDrive\\Desktop\\adv.net final\\LeynadthBookstoreWebApp\\Views\\Authors\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Authors\\Details.cshtml",
+              "ToolTip": "C:\\Users\\leyna\\OneDrive\\Desktop\\adv.net final\\LeynadthBookstoreWebApp\\Views\\Authors\\Details.cshtml",
+              "RelativeToolTip": "Views\\Authors\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T12:31:01.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\leyna\\OneDrive\\Desktop\\adv.net final\\LeynadthBookstoreWebApp\\Views\\Authors\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Authors\\Create.cshtml",
+              "ToolTip": "C:\\Users\\leyna\\OneDrive\\Desktop\\adv.net final\\LeynadthBookstoreWebApp\\Views\\Authors\\Create.cshtml",
+              "RelativeToolTip": "Views\\Authors\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T12:26:35.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "C:\\Users\\leyna\\OneDrive\\Desktop\\adv.net final\\LeynadthBookstoreWebApp\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\Users\\leyna\\OneDrive\\Desktop\\adv.net final\\LeynadthBookstoreWebApp\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "Controllers\\AuthorsController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAIwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:12:42.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenresController.cs",
+              "DocumentMoniker": "C:\\Users\\leyna\\OneDrive\\Desktop\\adv.net final\\LeynadthBookstoreWebApp\\Controllers\\GenresController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GenresController.cs",
+              "ToolTip": "C:\\Users\\leyna\\OneDrive\\Desktop\\adv.net final\\LeynadthBookstoreWebApp\\Controllers\\GenresController.cs",
+              "RelativeToolTip": "Controllers\\GenresController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:02:34.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Genres.cshtml",
+              "DocumentMoniker": "C:\\Users\\leyna\\OneDrive\\Desktop\\adv.net final\\LeynadthBookstoreWebApp\\Views\\Home\\Genres.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Genres.cshtml",
+              "ToolTip": "C:\\Users\\leyna\\OneDrive\\Desktop\\adv.net final\\LeynadthBookstoreWebApp\\Views\\Home\\Genres.cshtml",
+              "RelativeToolTip": "Views\\Home\\Genres.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T10:59:45.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DropDownFormatter.cs",
+              "DocumentMoniker": "C:\\Users\\leyna\\OneDrive\\Desktop\\adv.net final\\LeynadthBookstoreWebApp\\Helpers\\DropDownFormatter.cs",
+              "RelativeDocumentMoniker": "Helpers\\DropDownFormatter.cs",
+              "ToolTip": "C:\\Users\\leyna\\OneDrive\\Desktop\\adv.net final\\LeynadthBookstoreWebApp\\Helpers\\DropDownFormatter.cs",
+              "RelativeToolTip": "Helpers\\DropDownFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T09:56:48.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\leyna\\OneDrive\\Desktop\\adv.net final\\LeynadthBookstoreWebApp\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\leyna\\OneDrive\\Desktop\\adv.net final\\LeynadthBookstoreWebApp\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowBgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T08:24:50.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Authors.cshtml",
+              "DocumentMoniker": "C:\\Users\\leyna\\OneDrive\\Desktop\\adv.net final\\LeynadthBookstoreWebApp\\Views\\Home\\Authors.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Authors.cshtml",
+              "ToolTip": "C:\\Users\\leyna\\OneDrive\\Desktop\\adv.net final\\LeynadthBookstoreWebApp\\Views\\Home\\Authors.cshtml",
+              "RelativeToolTip": "Views\\Home\\Authors.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T07:50:31.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\leyna\\OneDrive\\Desktop\\adv.net final\\LeynadthBookstoreWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\leyna\\OneDrive\\Desktop\\adv.net final\\LeynadthBookstoreWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwCMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T07:47:32.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Books.cshtml",
+              "DocumentMoniker": "C:\\Users\\leyna\\OneDrive\\Desktop\\adv.net final\\LeynadthBookstoreWebApp\\Views\\Home\\Books.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Books.cshtml",
+              "ToolTip": "C:\\Users\\leyna\\OneDrive\\Desktop\\adv.net final\\LeynadthBookstoreWebApp\\Views\\Home\\Books.cshtml",
+              "RelativeToolTip": "Views\\Home\\Books.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T07:45:49.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BasicFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\leyna\\OneDrive\\Desktop\\adv.net final\\LeynadthBookstore\\BasicFunctions.cs",
+              "RelativeDocumentMoniker": "..\\LeynadthBookstore\\BasicFunctions.cs",
+              "ToolTip": "C:\\Users\\leyna\\OneDrive\\Desktop\\adv.net final\\LeynadthBookstore\\BasicFunctions.cs",
+              "RelativeToolTip": "..\\LeynadthBookstore\\BasicFunctions.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowNkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T07:36:19.034Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
