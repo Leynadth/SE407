@@ -1,0 +1,104 @@
+C:\Users\RBISHOP\source\repos\BlockBuster\BlockBuster\bin\Debug\net8.0\BlockBuster.deps.json
+C:\Users\RBISHOP\source\repos\BlockBuster\BlockBuster\bin\Debug\net8.0\BlockBuster.runtimeconfig.json
+C:\Users\RBISHOP\source\repos\BlockBuster\BlockBuster\bin\Debug\net8.0\BlockBuster.dll
+C:\Users\RBISHOP\source\repos\BlockBuster\BlockBuster\bin\Debug\net8.0\BlockBuster.pdb
+C:\Users\RBISHOP\source\repos\BlockBuster\BlockBuster\obj\Debug\net8.0\BlockBuster.csproj.AssemblyReference.cache
+C:\Users\RBISHOP\source\repos\BlockBuster\BlockBuster\obj\Debug\net8.0\BlockBuster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RBISHOP\source\repos\BlockBuster\BlockBuster\obj\Debug\net8.0\BlockBuster.AssemblyInfoInputs.cache
+C:\Users\RBISHOP\source\repos\BlockBuster\BlockBuster\obj\Debug\net8.0\BlockBuster.AssemblyInfo.cs
+C:\Users\RBISHOP\source\repos\BlockBuster\BlockBuster\obj\Debug\net8.0\BlockBuster.csproj.CoreCompileInputs.cache
+C:\Users\RBISHOP\source\repos\BlockBuster\BlockBuster\obj\Debug\net8.0\BlockBuster.dll
+C:\Users\RBISHOP\source\repos\BlockBuster\BlockBuster\obj\Debug\net8.0\refint\BlockBuster.dll
+C:\Users\RBISHOP\source\repos\BlockBuster\BlockBuster\obj\Debug\net8.0\BlockBuster.pdb
+C:\Users\RBISHOP\source\repos\BlockBuster\BlockBuster\obj\Debug\net8.0\BlockBuster.genruntimeconfig.cache
+C:\Users\RBISHOP\source\repos\BlockBuster\BlockBuster\obj\Debug\net8.0\ref\BlockBuster.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster\bin\Debug\net8.0\config.json
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster\bin\Debug\net8.0\BlockBuster.deps.json
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster\bin\Debug\net8.0\BlockBuster.runtimeconfig.json
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster\bin\Debug\net8.0\BlockBuster.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster\bin\Debug\net8.0\BlockBuster.pdb
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster\obj\Debug\net8.0\BlockBuster.csproj.AssemblyReference.cache
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster\obj\Debug\net8.0\BlockBuster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster\obj\Debug\net8.0\BlockBuster.AssemblyInfoInputs.cache
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster\obj\Debug\net8.0\BlockBuster.AssemblyInfo.cs
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster\obj\Debug\net8.0\BlockBuster.csproj.CoreCompileInputs.cache
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster\obj\Debug\net8.0\BlockBuster.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster\obj\Debug\net8.0\refint\BlockBuster.dll
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster\obj\Debug\net8.0\BlockBuster.pdb
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster\obj\Debug\net8.0\BlockBuster.genruntimeconfig.cache
+C:\Users\RBISHOP\source\repos\SE407_Advanced.NET\BlockBuster\BlockBuster\obj\Debug\net8.0\ref\BlockBuster.dll
+C:\Users\RBISHOP\Desktop\BlockBuster_Week7\BlockBuster\bin\Debug\net8.0\config.json
+C:\Users\RBISHOP\Desktop\BlockBuster_Week7\BlockBuster\bin\Debug\net8.0\BlockBuster.deps.json
+C:\Users\RBISHOP\Desktop\BlockBuster_Week7\BlockBuster\bin\Debug\net8.0\BlockBuster.runtimeconfig.json
+C:\Users\RBISHOP\Desktop\BlockBuster_Week7\BlockBuster\bin\Debug\net8.0\BlockBuster.dll
+C:\Users\RBISHOP\Desktop\BlockBuster_Week7\BlockBuster\bin\Debug\net8.0\BlockBuster.pdb
+C:\Users\RBISHOP\Desktop\BlockBuster_Week7\BlockBuster\obj\Debug\net8.0\BlockBuster.csproj.AssemblyReference.cache
+C:\Users\RBISHOP\Desktop\BlockBuster_Week7\BlockBuster\obj\Debug\net8.0\BlockBuster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RBISHOP\Desktop\BlockBuster_Week7\BlockBuster\obj\Debug\net8.0\BlockBuster.AssemblyInfoInputs.cache
+C:\Users\RBISHOP\Desktop\BlockBuster_Week7\BlockBuster\obj\Debug\net8.0\BlockBuster.AssemblyInfo.cs
+C:\Users\RBISHOP\Desktop\BlockBuster_Week7\BlockBuster\obj\Debug\net8.0\BlockBuster.csproj.CoreCompileInputs.cache
+C:\Users\RBISHOP\Desktop\BlockBuster_Week7\BlockBuster\obj\Debug\net8.0\BlockBuster.dll
+C:\Users\RBISHOP\Desktop\BlockBuster_Week7\BlockBuster\obj\Debug\net8.0\refint\BlockBuster.dll
+C:\Users\RBISHOP\Desktop\BlockBuster_Week7\BlockBuster\obj\Debug\net8.0\BlockBuster.pdb
+C:\Users\RBISHOP\Desktop\BlockBuster_Week7\BlockBuster\obj\Debug\net8.0\BlockBuster.genruntimeconfig.cache
+C:\Users\RBISHOP\Desktop\BlockBuster_Week7\BlockBuster\obj\Debug\net8.0\ref\BlockBuster.dll
+C:\Users\RBISHOP\Desktop\BlockBuster_Week8\BlockBuster\bin\Debug\net8.0\config.json
+C:\Users\RBISHOP\Desktop\BlockBuster_Week8\BlockBuster\bin\Debug\net8.0\BlockBuster.deps.json
+C:\Users\RBISHOP\Desktop\BlockBuster_Week8\BlockBuster\bin\Debug\net8.0\BlockBuster.runtimeconfig.json
+C:\Users\RBISHOP\Desktop\BlockBuster_Week8\BlockBuster\bin\Debug\net8.0\BlockBuster.dll
+C:\Users\RBISHOP\Desktop\BlockBuster_Week8\BlockBuster\bin\Debug\net8.0\BlockBuster.pdb
+C:\Users\RBISHOP\Desktop\BlockBuster_Week8\BlockBuster\obj\Debug\net8.0\BlockBuster.csproj.AssemblyReference.cache
+C:\Users\RBISHOP\Desktop\BlockBuster_Week8\BlockBuster\obj\Debug\net8.0\BlockBuster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RBISHOP\Desktop\BlockBuster_Week8\BlockBuster\obj\Debug\net8.0\BlockBuster.AssemblyInfoInputs.cache
+C:\Users\RBISHOP\Desktop\BlockBuster_Week8\BlockBuster\obj\Debug\net8.0\BlockBuster.AssemblyInfo.cs
+C:\Users\RBISHOP\Desktop\BlockBuster_Week8\BlockBuster\obj\Debug\net8.0\BlockBuster.csproj.CoreCompileInputs.cache
+C:\Users\RBISHOP\Desktop\BlockBuster_Week8\BlockBuster\obj\Debug\net8.0\BlockBuster.dll
+C:\Users\RBISHOP\Desktop\BlockBuster_Week8\BlockBuster\obj\Debug\net8.0\refint\BlockBuster.dll
+C:\Users\RBISHOP\Desktop\BlockBuster_Week8\BlockBuster\obj\Debug\net8.0\BlockBuster.pdb
+C:\Users\RBISHOP\Desktop\BlockBuster_Week8\BlockBuster\obj\Debug\net8.0\BlockBuster.genruntimeconfig.cache
+C:\Users\RBISHOP\Desktop\BlockBuster_Week8\BlockBuster\obj\Debug\net8.0\ref\BlockBuster.dll
+F:\Courses\SE 407 - Advanced .NET\Week 9\BlockBuster_Week9\BlockBuster_Week9\BlockBuster\bin\Debug\net8.0\config.json
+F:\Courses\SE 407 - Advanced .NET\Week 9\BlockBuster_Week9\BlockBuster_Week9\BlockBuster\bin\Debug\net8.0\BlockBuster.deps.json
+F:\Courses\SE 407 - Advanced .NET\Week 9\BlockBuster_Week9\BlockBuster_Week9\BlockBuster\bin\Debug\net8.0\BlockBuster.runtimeconfig.json
+F:\Courses\SE 407 - Advanced .NET\Week 9\BlockBuster_Week9\BlockBuster_Week9\BlockBuster\bin\Debug\net8.0\BlockBuster.dll
+F:\Courses\SE 407 - Advanced .NET\Week 9\BlockBuster_Week9\BlockBuster_Week9\BlockBuster\bin\Debug\net8.0\BlockBuster.pdb
+F:\Courses\SE 407 - Advanced .NET\Week 9\BlockBuster_Week9\BlockBuster_Week9\BlockBuster\obj\Debug\net8.0\BlockBuster.csproj.AssemblyReference.cache
+F:\Courses\SE 407 - Advanced .NET\Week 9\BlockBuster_Week9\BlockBuster_Week9\BlockBuster\obj\Debug\net8.0\BlockBuster.GeneratedMSBuildEditorConfig.editorconfig
+F:\Courses\SE 407 - Advanced .NET\Week 9\BlockBuster_Week9\BlockBuster_Week9\BlockBuster\obj\Debug\net8.0\BlockBuster.AssemblyInfoInputs.cache
+F:\Courses\SE 407 - Advanced .NET\Week 9\BlockBuster_Week9\BlockBuster_Week9\BlockBuster\obj\Debug\net8.0\BlockBuster.AssemblyInfo.cs
+F:\Courses\SE 407 - Advanced .NET\Week 9\BlockBuster_Week9\BlockBuster_Week9\BlockBuster\obj\Debug\net8.0\BlockBuster.csproj.CoreCompileInputs.cache
+F:\Courses\SE 407 - Advanced .NET\Week 9\BlockBuster_Week9\BlockBuster_Week9\BlockBuster\obj\Debug\net8.0\BlockBuster.dll
+F:\Courses\SE 407 - Advanced .NET\Week 9\BlockBuster_Week9\BlockBuster_Week9\BlockBuster\obj\Debug\net8.0\refint\BlockBuster.dll
+F:\Courses\SE 407 - Advanced .NET\Week 9\BlockBuster_Week9\BlockBuster_Week9\BlockBuster\obj\Debug\net8.0\BlockBuster.pdb
+F:\Courses\SE 407 - Advanced .NET\Week 9\BlockBuster_Week9\BlockBuster_Week9\BlockBuster\obj\Debug\net8.0\BlockBuster.genruntimeconfig.cache
+F:\Courses\SE 407 - Advanced .NET\Week 9\BlockBuster_Week9\BlockBuster_Week9\BlockBuster\obj\Debug\net8.0\ref\BlockBuster.dll
+G:\Courses\SE 407 - Advanced .NET\Week 9\BlockBuster_Week9\BlockBuster_Week9\BlockBuster\bin\Debug\net8.0\config.json
+G:\Courses\SE 407 - Advanced .NET\Week 9\BlockBuster_Week9\BlockBuster_Week9\BlockBuster\bin\Debug\net8.0\BlockBuster.deps.json
+G:\Courses\SE 407 - Advanced .NET\Week 9\BlockBuster_Week9\BlockBuster_Week9\BlockBuster\bin\Debug\net8.0\BlockBuster.runtimeconfig.json
+G:\Courses\SE 407 - Advanced .NET\Week 9\BlockBuster_Week9\BlockBuster_Week9\BlockBuster\bin\Debug\net8.0\BlockBuster.dll
+G:\Courses\SE 407 - Advanced .NET\Week 9\BlockBuster_Week9\BlockBuster_Week9\BlockBuster\bin\Debug\net8.0\BlockBuster.pdb
+G:\Courses\SE 407 - Advanced .NET\Week 9\BlockBuster_Week9\BlockBuster_Week9\BlockBuster\obj\Debug\net8.0\BlockBuster.csproj.AssemblyReference.cache
+G:\Courses\SE 407 - Advanced .NET\Week 9\BlockBuster_Week9\BlockBuster_Week9\BlockBuster\obj\Debug\net8.0\BlockBuster.GeneratedMSBuildEditorConfig.editorconfig
+G:\Courses\SE 407 - Advanced .NET\Week 9\BlockBuster_Week9\BlockBuster_Week9\BlockBuster\obj\Debug\net8.0\BlockBuster.AssemblyInfoInputs.cache
+G:\Courses\SE 407 - Advanced .NET\Week 9\BlockBuster_Week9\BlockBuster_Week9\BlockBuster\obj\Debug\net8.0\BlockBuster.AssemblyInfo.cs
+G:\Courses\SE 407 - Advanced .NET\Week 9\BlockBuster_Week9\BlockBuster_Week9\BlockBuster\obj\Debug\net8.0\BlockBuster.csproj.CoreCompileInputs.cache
+G:\Courses\SE 407 - Advanced .NET\Week 9\BlockBuster_Week9\BlockBuster_Week9\BlockBuster\obj\Debug\net8.0\BlockBuster.dll
+G:\Courses\SE 407 - Advanced .NET\Week 9\BlockBuster_Week9\BlockBuster_Week9\BlockBuster\obj\Debug\net8.0\refint\BlockBuster.dll
+G:\Courses\SE 407 - Advanced .NET\Week 9\BlockBuster_Week9\BlockBuster_Week9\BlockBuster\obj\Debug\net8.0\BlockBuster.pdb
+G:\Courses\SE 407 - Advanced .NET\Week 9\BlockBuster_Week9\BlockBuster_Week9\BlockBuster\obj\Debug\net8.0\BlockBuster.genruntimeconfig.cache
+G:\Courses\SE 407 - Advanced .NET\Week 9\BlockBuster_Week9\BlockBuster_Week9\BlockBuster\obj\Debug\net8.0\ref\BlockBuster.dll
+C:\Users\leyna\Downloads\BlockBuster_Week9\BlockBuster_Week9\BlockBuster_Week9\BlockBuster\bin\Debug\net8.0\config.json
+C:\Users\leyna\Downloads\BlockBuster_Week9\BlockBuster_Week9\BlockBuster_Week9\BlockBuster\bin\Debug\net8.0\BlockBuster.deps.json
+C:\Users\leyna\Downloads\BlockBuster_Week9\BlockBuster_Week9\BlockBuster_Week9\BlockBuster\bin\Debug\net8.0\BlockBuster.runtimeconfig.json
+C:\Users\leyna\Downloads\BlockBuster_Week9\BlockBuster_Week9\BlockBuster_Week9\BlockBuster\bin\Debug\net8.0\BlockBuster.dll
+C:\Users\leyna\Downloads\BlockBuster_Week9\BlockBuster_Week9\BlockBuster_Week9\BlockBuster\bin\Debug\net8.0\BlockBuster.pdb
+C:\Users\leyna\Downloads\BlockBuster_Week9\BlockBuster_Week9\BlockBuster_Week9\BlockBuster\obj\Debug\net8.0\BlockBuster.csproj.AssemblyReference.cache
+C:\Users\leyna\Downloads\BlockBuster_Week9\BlockBuster_Week9\BlockBuster_Week9\BlockBuster\obj\Debug\net8.0\BlockBuster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leyna\Downloads\BlockBuster_Week9\BlockBuster_Week9\BlockBuster_Week9\BlockBuster\obj\Debug\net8.0\BlockBuster.AssemblyInfoInputs.cache
+C:\Users\leyna\Downloads\BlockBuster_Week9\BlockBuster_Week9\BlockBuster_Week9\BlockBuster\obj\Debug\net8.0\BlockBuster.AssemblyInfo.cs
+C:\Users\leyna\Downloads\BlockBuster_Week9\BlockBuster_Week9\BlockBuster_Week9\BlockBuster\obj\Debug\net8.0\BlockBuster.csproj.CoreCompileInputs.cache
+C:\Users\leyna\Downloads\BlockBuster_Week9\BlockBuster_Week9\BlockBuster_Week9\BlockBuster\obj\Debug\net8.0\BlockBuster.dll
+C:\Users\leyna\Downloads\BlockBuster_Week9\BlockBuster_Week9\BlockBuster_Week9\BlockBuster\obj\Debug\net8.0\refint\BlockBuster.dll
+C:\Users\leyna\Downloads\BlockBuster_Week9\BlockBuster_Week9\BlockBuster_Week9\BlockBuster\obj\Debug\net8.0\BlockBuster.pdb
+C:\Users\leyna\Downloads\BlockBuster_Week9\BlockBuster_Week9\BlockBuster_Week9\BlockBuster\obj\Debug\net8.0\BlockBuster.genruntimeconfig.cache
+C:\Users\leyna\Downloads\BlockBuster_Week9\BlockBuster_Week9\BlockBuster_Week9\BlockBuster\obj\Debug\net8.0\ref\BlockBuster.dll

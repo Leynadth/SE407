@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeynadthBookstoreWebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01ed3a4b80a2efc7c24880571e6d2a6f7b0a832b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93fd135dd282f1c4db9cbd0edd3126f79fc2a8e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeynadthBookstoreWebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeynadthBookstoreWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

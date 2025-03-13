@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leyna\\Downloads\\BlockBuster_Week9\\BlockBuster_Week9\\BlockBuster_Week9\\BlockBuster.WebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1BE134-2B86-4AAB-8971-C97BEACBCED7}|BlockBuster.WebApp.csproj|c:\\users\\leyna\\downloads\\blockbuster_week9\\blockbuster_week9\\blockbuster_week9\\blockbuster.webapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA1BE134-2B86-4AAB-8971-C97BEACBCED7}|BlockBuster.WebApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1BE134-2B86-4AAB-8971-C97BEACBCED7}|BlockBuster.WebApp.csproj|c:\\users\\leyna\\downloads\\blockbuster_week9\\blockbuster_week9\\blockbuster_week9\\blockbuster.webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA1BE134-2B86-4AAB-8971-C97BEACBCED7}|BlockBuster.WebApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1BE134-2B86-4AAB-8971-C97BEACBCED7}|BlockBuster.WebApp.csproj|c:\\users\\leyna\\downloads\\blockbuster_week9\\blockbuster_week9\\blockbuster_week9\\blockbuster.webapp\\views\\director\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA1BE134-2B86-4AAB-8971-C97BEACBCED7}|BlockBuster.WebApp.csproj|solutionrelative:views\\director\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1BE134-2B86-4AAB-8971-C97BEACBCED7}|BlockBuster.WebApp.csproj|c:\\users\\leyna\\downloads\\blockbuster_week9\\blockbuster_week9\\blockbuster_week9\\blockbuster.webapp\\controllers\\directorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA1BE134-2B86-4AAB-8971-C97BEACBCED7}|BlockBuster.WebApp.csproj|solutionrelative:controllers\\directorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1BE134-2B86-4AAB-8971-C97BEACBCED7}|BlockBuster.WebApp.csproj|c:\\users\\leyna\\downloads\\blockbuster_week9\\blockbuster_week9\\blockbuster_week9\\blockbuster.webapp\\controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA1BE134-2B86-4AAB-8971-C97BEACBCED7}|BlockBuster.WebApp.csproj|solutionrelative:controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036FBFB2-7F04-936D-E572-70F55E646650}|..\\BlockBuster\\BlockBuster.csproj|c:\\users\\leyna\\downloads\\blockbuster_week9\\blockbuster_week9\\blockbuster_week9\\blockbuster\\basicfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1BE134-2B86-4AAB-8971-C97BEACBCED7}|BlockBuster.WebApp.csproj|c:\\users\\leyna\\downloads\\blockbuster_week9\\blockbuster_week9\\blockbuster_week9\\blockbuster.webapp\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA1BE134-2B86-4AAB-8971-C97BEACBCED7}|BlockBuster.WebApp.csproj|solutionrelative:controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 70,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\leyna\\Downloads\\BlockBuster_Week9\\BlockBuster_Week9\\BlockBuster_Week9\\BlockBuster.WebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\leyna\\Downloads\\BlockBuster_Week9\\BlockBuster_Week9\\BlockBuster_Week9\\BlockBuster.WebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T18:59:47.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\leyna\\Downloads\\BlockBuster_Week9\\BlockBuster_Week9\\BlockBuster_Week9\\BlockBuster.WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\leyna\\Downloads\\BlockBuster_Week9\\BlockBuster_Week9\\BlockBuster_Week9\\BlockBuster.WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwB8AAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T18:58:41.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\leyna\\Downloads\\BlockBuster_Week9\\BlockBuster_Week9\\BlockBuster_Week9\\BlockBuster.WebApp\\Views\\Director\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Director\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\leyna\\Downloads\\BlockBuster_Week9\\BlockBuster_Week9\\BlockBuster_Week9\\BlockBuster.WebApp\\Views\\Director\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Director\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T18:57:09.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\leyna\\Downloads\\BlockBuster_Week9\\BlockBuster_Week9\\BlockBuster_Week9\\BlockBuster.WebApp\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\leyna\\Downloads\\BlockBuster_Week9\\BlockBuster_Week9\\BlockBuster_Week9\\BlockBuster.WebApp\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "Controllers\\MovieController.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAmwJUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T18:12:32.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenreController.cs",
+              "DocumentMoniker": "C:\\Users\\leyna\\Downloads\\BlockBuster_Week9\\BlockBuster_Week9\\BlockBuster_Week9\\BlockBuster.WebApp\\Controllers\\GenreController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GenreController.cs",
+              "ToolTip": "C:\\Users\\leyna\\Downloads\\BlockBuster_Week9\\BlockBuster_Week9\\BlockBuster_Week9\\BlockBuster.WebApp\\Controllers\\GenreController.cs",
+              "RelativeToolTip": "Controllers\\GenreController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAEwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T18:11:23.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DirectorController.cs",
+              "DocumentMoniker": "C:\\Users\\leyna\\Downloads\\BlockBuster_Week9\\BlockBuster_Week9\\BlockBuster_Week9\\BlockBuster.WebApp\\Controllers\\DirectorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DirectorController.cs",
+              "ToolTip": "C:\\Users\\leyna\\Downloads\\BlockBuster_Week9\\BlockBuster_Week9\\BlockBuster_Week9\\BlockBuster.WebApp\\Controllers\\DirectorController.cs",
+              "RelativeToolTip": "Controllers\\DirectorController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAmwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T18:11:05.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BasicFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\leyna\\Downloads\\BlockBuster_Week9\\BlockBuster_Week9\\BlockBuster_Week9\\BlockBuster\\BasicFunctions.cs",
+              "RelativeDocumentMoniker": "..\\BlockBuster\\BasicFunctions.cs",
+              "ToolTip": "C:\\Users\\leyna\\Downloads\\BlockBuster_Week9\\BlockBuster_Week9\\BlockBuster_Week9\\BlockBuster\\BasicFunctions.cs",
+              "RelativeToolTip": "..\\BlockBuster\\BasicFunctions.cs",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAqwAYBAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T17:36:38.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
